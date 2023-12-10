@@ -65,7 +65,10 @@
       "who designed you"
    ],
    "responses": [
-      "College students"
+      "College students of CSE department",
+      "College students as a part of their project"
+
+
    ],
    "context_set": ""
 },
@@ -87,8 +90,8 @@
       "what are you"
    ],
    "responses": [
-      "You can call me Mind Reader.",
-      "I'm Mind Reader",
+      "You can call me GLBot.",
+      "I'm Bot for GLBajaj",
       "I am a Chatbot.",
       "I am your helper"
    ],
@@ -116,7 +119,10 @@
       "timing college"
    ],
    "responses": [
-      "College is open 8am-5pm Monday-Saturday!"
+      "College is open 8am-5pm Monday-Saturday!",
+      "We're open every day 8am-5pm",
+      "Our hours are 8am-5pm every day except for public holidays"
+
    ],
    "context_set": ""
 },
@@ -176,7 +182,9 @@
       "Civil engineering"
    ],
    "responses": [
-      "Our College offers Information Technology, Mechanical engineering,Electronics and Electrical Engineering, and some sub-domain of Computer Science Engineering."
+      "Our College offers Information Technology, Mechanical engineering,Electronics and Electrical Engineering, and some sub-domain of Computer Science Engineering.",
+      "Engineering courses, Management courses"
+
    ],
    "context_set": ""
 },

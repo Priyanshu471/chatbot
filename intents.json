@@ -9,7 +9,6 @@
       "Hello",
       "Good day",
       "What's up",
-      "how are ya",
       "heyy",
       "whatsup",
       "??? ??? ??"
@@ -18,7 +17,28 @@
       "Hello!",
       "Good to see you again!",
       "Hi there, how can I help?"
-   ]
+   ],
+   "context_set":""
+},
+{
+   "tag":"wellness",
+   "patterns":[
+      "How are you?",
+      "What's up",
+      "How are you doing",
+      "How",
+      "how",
+      "how are you",
+      "how are you doing",
+      "Wassup",
+      "??? ??? ??"
+   ],
+   "responses":[
+      "Hi, I am fine. How can I help you?",
+      "Thanks, I am good.",
+      "I am absolutely fine. How can I help you today?" 
+   ],
+   "context_set":""
 },
  {
    "tag": "goodbye",
@@ -119,9 +139,9 @@
       "timing college"
    ],
    "responses": [
-      "College is open 8am-5pm Monday-Saturday!",
-      "We're open every day 8am-5pm",
-      "Our hours are 8am-5pm every day except for public holidays"
+      "College is open 9am-5pm Monday-Saturday!",
+      "We're open every day 9am-5pm",
+      "Our hours are 9am-5pm every day except for public holidays"
 
    ],
    "context_set": ""
@@ -146,7 +166,10 @@
       "call"
    ],
    "responses": [
-      "You can contact at: NUMBER"
+      "You can contact at: +91 7290008310",
+      "For any query you can contact at: +91 7290008390",
+      "You can contact between 9am-4pm at: +91 7290008390",
+      "You can whatsApp us at <a target=\"_blank\" href=\"https://api.whatsapp.com/send?phone=918010000234&text=Interested%20in%20Admission%20of%20GL%20Bajaj\">8010000234</a>"
    ],
    "context_set": ""
 },
@@ -205,9 +228,7 @@
       "fees",
       "about the fees",
       "tell me something about the fees",
-      "What is the fees of hostel",
       "how much is the fees",
-      "hostel fees",
       "fees for AC room",
       "fees for non-AC room",
       "fees for Ac room for girls",
@@ -216,7 +237,9 @@
       "fees for non-Ac room for boys"
    ],
    "responses": [
-      "For Fee detail visit <a target=\"_blank\" href=\"LINK\"> here</a>"
+      "For Fee detail please fill <a target=\"_blank\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe95Hc-ThfBQlRsTC4EHPvUAu8ho53dieBjkPZkjlBcEFSy6Q/viewform\">Fee form</a>",
+      "Theres is a different fee structure for different courses. For more details visit student corner <a target=\"_blank\" href=\"https://www.glbitm.org/student-corner/\">Student Corner</a>"
+
    ],
    "context_set": ""
 },
@@ -239,7 +262,7 @@
       "location"
    ],
    "responses": [
-      "<a target=\"_blank\" href=\"https://maps.app.goo.gl/GHqXE1geqribbnkM6\"> here </a>"
+      "<a target=\"_blank\" href=\"https://maps.app.goo.gl/GHqXE1geqribbnkM6\"> Greater Noida </a>"
    ],
    "context_set": ""
 },
@@ -270,7 +293,9 @@
       "distance between hostel and college"
    ],
    "responses": [
-      "For hostel detail visit <a target=\"_blank\" href=\"ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS\"> here</a>"
+      "For hostel detail visit <a target=\"_blank\" href=\"https://www.glbitm.org/hostel-facilities/\">Hostel Details</a>",
+      "We have 2 Boys hostel inside campus"
+
    ],
    "context_set": ""
 },
@@ -312,7 +337,7 @@
       "documents needed"
    ],
    "responses": [
-      "To know more about document required visit <a target=\"_blank\" href=\"ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE\"> here</a>"
+      "To know more about document required visit <a target=\"_blank\" href=\"https://www.glbitm.org/student-corner\"> here</a>"
    ],
    "context_set": ""
 },
@@ -328,7 +353,7 @@
       "floors"
    ],
    "responses": [
-      "My College has total 2 floors "
+      "My College has total 4 floors in block A and 9 floors in block B"
    ],
    "context_set": ""
 },
@@ -344,7 +369,7 @@
       "What is next lecture"
    ],
    "responses": [
-      "Timetable provide direct to the students OR To know about syllabus visit <a target=\"_blank\" href=\"TIMETABLE LINK\"> here</a>"
+      "Timetable provide direct to the students OR To know about syllabus visit courses <a target=\"_blank\" href=\"https://www.glbitm.org/courses-and-admission\"> here</a>"
    ],
    "context_set": ""
 },
@@ -367,7 +392,7 @@
       "how many libraries"
    ],
    "responses": [
-      "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=\"blank\" href=\"ADD LIBRARY DETAIL LINK\">here</a>"
+      "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=\"blank\" href=\"https://www.glbitm.org/library/index.asp\">Library</a>"
    ],
    "context_set": ""
 },
@@ -379,7 +404,7 @@
       "college infrastructure"
    ],
    "responses": [
-      "Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection"
+      "Our college has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection"
    ],
    "context_set": ""
 },
@@ -399,23 +424,11 @@
       "Cafetaria"
    ],
    "responses": [
-      "Our university has canteen with variety of food available"
-   ],
-   "context_set": ""
-},
- {
-   "tag": "menu",
-   "patterns": [
-      "food menu",
-      "food in canteen",
-      "Whats there on menu",
-      "what is available in college canteen",
-      "what foods can we get in college canteen",
-      "food variety",
-      "What is there to eat?"
-   ],
-   "responses": [
-      "we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu"
+      "Our college has canteen with variety of food available",
+      "We have canteen and cafeteria in our college",
+      "Canteen is located at 2nd floor of Mess building",
+      "For more details about canteen and mess visit <a target=\"_blank\" href=\"https://www.glbitm.org/mess-and-cafeteria\">here</a>"
+      
    ],
    "context_set": ""
 },
@@ -433,7 +446,9 @@
       "companies"
    ],
    "responses": [
-      "To know about placement visit <a target=\"_blank\" href=\"PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE\">here</a>"
+      "To know about placement record visit <a target=\"_blank\" href=\"https://www.glbitm.org/placement-record/\">Records</a>",
+      "For placement Cell visit <a target=\"_blank\" href=\"https://www.glbitm.org/training-and-placements/\">Placement Cell</a>",
+      "Our top recruiters are TCS, Wipro, Infosys, Capgemini, Accenture, IBM, HCL, Tech Mahindra, NIIT, Cognizant, Amazon, Samsung, L&T, Ericsson, etc."
    ],
    "context_set": ""
 },
@@ -446,7 +461,8 @@
       "name of it hod"
    ],
    "responses": [
-      "All engineering departments have only one hod XYZ who available on (Place name)"
+      "Dr. P.C. Vashist is HOD of IT department",
+      "Dr. P.C. Vashist and if there email id is hod.it@glbitm.ac.in"
    ],
    "context_set": ""
 },
@@ -459,36 +475,8 @@
       "name of computer hod"
    ],
    "responses": [
-      "All engineering departments have only one hod XYZ who available on (PLACE NAME)"
-   ],
-   "context_set": ""
-},
- {
-   "tag": "extchod",
-   "patterns": [
-      "Who is extc HOD",
-      "Where is  extc HOD",
-      "extc hod",
-      "name of extc hod"
-   ],
-   "responses": [
-      "Different school wise hod are different.So be more clear with your school or department"
-   ],
-   "context_set": ""
-},
- {
-   "tag": "principal",
-   "patterns": [
-      "what is the name of principal",
-      "whatv is the principal name",
-      "principal name",
-      "Who is college principal",
-      "Where is principal's office",
-      "principal",
-      "name of principal"
-   ],
-   "responses": [
-      "XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate"
+      "Dr. Sansar Singh Chauhan is HOD of Computer science department",
+      "Dr. Sansar Singh Chauhan and if there email id is hod.cse@glbitm.ac.in"
    ],
    "context_set": ""
 },
@@ -590,7 +578,8 @@
       "seats"
    ],
    "responses": [
-      "For IT, Computer and extc 60 per branch and seat may be differ for different department."
+      "For IT 200 and seat may be differ for different department.",
+      "For CSE 500 and seat may be differ for different department."
    ],
    "context_set": ""
 },
@@ -608,25 +597,13 @@
       "do we have to wear uniform"
    ],
    "responses": [
-      "ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER"
+      "We have Uniform for all students",
+      "Yes, we have uniform for all students",
+      "For uniform you can get it from college shop"
    ],
    "context_set": ""
 },
- {
-   "tag": "committee",
-   "patterns": [
-      "what are the different committe in college",
-      "different committee in college",
-      "Are there any committee in college",
-      "Give me committee details",
-      "committee",
-      "how many committee are there in college"
-   ],
-   "responses": [
-      "For the various committe in college contact this number: ADD NUMBER"
-   ],
-   "context_set": ""
-},
+
  {
    "tag": "random",
    "patterns": [

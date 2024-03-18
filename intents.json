@@ -315,7 +315,17 @@
       "what about events"
    ],
    "responses": [
-      "For event detail visit <a target=\"_blank\" href=\"ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE\"> here</a>"
+      "Our college hosts a variety of events throughout the academic year. Would you like details on specific events?",
+      "Sure, here are some events organized by our college:\n1. Alumni Meet (Annually)\n2. Freshers' Event (November)\n3. Farewell for Last Year Students (July)",
+      "Here is a list of events organized by our college:\n1. Alumni Meet (Annually)\n2. Freshers' Event (November)\n3. Farewell for Last Year Students (July)",
+      "Our college conducts numerous events throughout the academic year, including:\n1. Alumni Meet (Annually)\n2. Freshers' Event (November)\n3. Farewell for Last Year Students (July)",
+      "Some of the events conducted in our college include:\n1. Alumni Meet (Annually)\n2. Freshers' Event (November)\n3. Farewell for Last Year Students (July)",
+      "Yes, our college hosts several events. The main ones are:\n1. Alumni Meet (Annually)\n2. Freshers' Event (November)\n3. Farewell for Last Year Students (July)",
+      "We have various events throughout the year. The key ones include:\n1. Alumni Meet (Annually)\n2. Freshers' Event (November)\n3. Farewell for Last Year Students (July)",
+      "Functions organized by our college include:\n1. Alumni Meet (Annually)\n2. Freshers' Event (November)\n3. Farewell for Last Year Students (July)",
+      "Here are the events organized by our college:\n1. Alumni Meet (Annually)\n2. Freshers' Event (November)\n3. Farewell for Last Year Students (July)",
+      "Certainly! Here are some of the events hosted by our college:\n1. Alumni Meet (Annually)\n2. Freshers' Event (November)\n3. Farewell for Last Year Students (July)",
+      "Sure, our college conducts several events throughout the year. Some of them are:\n1. Alumni Meet (Annually)\n2. Freshers' Event (November)\n3. Farewell for Last Year Students (July)"
    ],
    "context_set": ""
 },
@@ -603,6 +613,67 @@
    ],
    "context_set": ""
 },
+{
+   "tag": "staff and faculty",
+   "patterns": [
+      "1st year btech faculty detail",
+      "2nd year btech faculty detail",
+      "3rd year btech faculty detail",
+      "4th year btech faculty detail",
+      "1st year mba faculty detail",
+      "2nd year mba faculty detail"
+     
+   ],
+   "responses": [
+ 
+      "For 1st year BTech, here are some staff and faculty members:\n1. Dr. John Smith - john.smith01@gmail.com\n2. Prof. Emily Johnson - emily.johnson02@gmail.com\n\nFaculty: Our esteemed faculty members are dedicated to providing quality education and guidance to 1st-year BTech students.",
+
+    
+      "For 2nd year BTech, here are some staff and faculty members:\n1. Dr. Michael Brown - michael.brown03@gmail.com\n2. Prof. Jessica Davis - jessica.davis04@gmail.com\n\nFaculty: Our experienced faculty members are committed to supporting the academic growth and development of 2nd-year BTech students.",
+
+  
+      "For 3rd year BTech, here are some staff and faculty members:\n1. Dr. Christopher Wilson - christopher.wilson05@gmail.com\n2. Prof. Sarah Martinez - sarah.martinez06@gmail.com\n\nFaculty: Our dedicated faculty members provide mentorship and guidance to 3rd-year BTech students to excel in their academic pursuits.",
+
+
+      "For 4th year BTech, here are some staff and faculty members:\n1. Dr. David Anderson - david.anderson07@gmail.com\n2. Prof. Samantha Taylor - samantha.taylor08@gmail.com\n\nFaculty: Our experienced faculty members help prepare 4th-year BTech students for their future careers through comprehensive education and practical knowledge.",
+
+   
+      "For 1st year MBA, here are some staff and faculty members:\n1. Dr. James Clark - james.clark09@gmail.com\n2. Prof. Ashley White - ashley.white10@gmail.com\n\nFaculty: Our dedicated faculty members bring extensive industry experience to guide and mentor 1st-year MBA students towards success.",
+
+ 
+      "For 2nd year MBA, here are some staff and faculty members:\n1. Dr. Andrew Martinez - andrew.martinez11@gmail.com\n2. Prof. Jennifer Moore - jennifer.moore12@gmail.com\n\nFaculty: Our experienced faculty members provide advanced knowledge and insights to support the academic and professional growth of 2nd-year MBA students."
+
+   ],
+   "context_set": ""
+},
+
+{
+   "tag": "student life",
+   "patterns": [
+      "Tell  me about student organizations",
+      "Are there any clubs & extracurricular activities",
+      "What are various campus events the are held for students in various Technical courses",
+      " Tell me about few student clubs",
+      "Are there any volunteering opportunities",
+      "student leadership roles",
+      "social events",
+      "academic competitions",
+      "community service activities"
+   ],
+   "responses": [
+      "For student organizations, our college offers:\n- Antiragging Organization\n- Event Management Organization\n- Self Help Group",
+      "For clubs and extracurricular activities, students can participate in:\n- Rotaract Club\n- Sports Club (manages team formation for zonals)\n- Photography Club\n- Coding Club",
+      "Regarding campus events, our college hosts:\n- Hackathon\n- Coding Competitions\n- Inter-college Sports Events",
+      "Our college has a variety of student clubs catering to different interests such as arts, culture, technology, and more.",
+      "Students have opportunities for volunteering in various initiatives, including community outreach programs, environmental projects, and charity events.",
+      "Student leadership roles include positions in student government, club presidents, event organizers, and peer mentors.",
+      "Social events organized by our college include cultural festivals, talent shows, movie nights, and themed parties.",
+      "We regularly participate in academic competitions such as debates, quizzes, hackathons, and science fairs.",
+      "Engage in community service activities such as blood donation drives, tree planting campaigns, and awareness campaigns on social issues."
+   ],
+   "context_set": ""
+},
+
 
  {
    "tag": "random",

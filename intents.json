@@ -6,6 +6,7 @@
         "academics",
         "courses offered",
         "academic programs",
+        "academics",
         "course descriptions",
         "prerequisites",
         "course schedules",
@@ -32,7 +33,8 @@
         "admission process"
       ],
       "responses": [
-        "Application can also be submitted online through the university's  <a target=\"_blank\" href=\"LINK OF ADMISSION DOCUMENT\">website</a>"
+         "We have different admission process, students can apply through University and Directly.",
+         "We are affiliated with AKTU Lucknow, so students can apply through Counselling."
       ],
       "context_set": ""
     },
@@ -73,8 +75,9 @@
         "seats"
       ],
       "responses": [
-        "For IT 200 and seat may be differ for different department.",
-        "For CSE 500 and seat may be differ for different department."
+         "For IT 180 and seat may be differ for different department. <a target=\"_blank\" href=\"https://www.glbitm.org/cpage.aspx?mpgid=27&pgidtrail=179\">Seat Allotment</a>",
+         "For CSE 800 and seat may be differ for different department. <a target=\"_blank\" href=\"https://www.glbitm.org/cpage.aspx?mpgid=27&pgidtrail=179\">Seat Allotment</a>",
+         "For Seat allotment visit <a target=\"_blank\" href=\"https://www.glbitm.org/cpage.aspx?mpgid=27&pgidtrail=179\">Seat Allotment</a>" 
       ],
       "context_set": ""
     },
@@ -84,6 +87,9 @@
         "Who is computer HOD",
         "Where is computer HOD",
         "computer hod",
+        "computer science hod",
+         "computer science department hod",
+         "cs hod",
         "name of computer hod"
       ],
       "responses": [
@@ -150,8 +156,8 @@
         "who designed you"
       ],
       "responses": [
-        "We have different admission process, students can apply through University and Directly.",
-        "We are affiliated with AKTU Lucknow, so students can apply through Counselling."
+        "I was created by GLBajaj Institute of Technology and Management",
+        "I was developed by GLBajaj Institute of Technology and Management"
       ],
       "context_set": ""
     },
@@ -173,7 +179,7 @@
         "documents needed"
       ],
       "responses": [
-        "To know more about document required visit <a target=\"_blank\" href=\"https://www.glbitm.org/student-corner\"> here</a>"
+        "To know more about document required visit <a target=\"_blank\" href=\"https://www.glbitm.org/student-corner\">Documents section</a>"
       ],
       "context_set": ""
     },
@@ -383,7 +389,7 @@
     },
     {
       "tag": "ithod",
-      "patterns": ["Who is HOD", "Where is HOD", "it hod", "name of it hod"],
+      "patterns": ["Who is IT HOD", "Where is It HOD", "it hod", "name of it hod"],
       "responses": [
         "Dr. P.C. Vashist is HOD of IT department",
         "Dr. P.C. Vashist and if there email id is hod.it@glbitm.ac.in"
@@ -502,8 +508,8 @@
         "companies"
       ],
       "responses": [
-        "To know about placement record visit <a target=\"_blank\" href=\"https://www.glbitm.org/placement-record/\">Records</a>",
-        "For placement Cell visit <a target=\"_blank\" href=\"https://www.glbitm.org/training-and-placements/\">Placement Cell</a>",
+        "To know about placement record visit <a target=\"_blank\" href=\"https://www.glbitm.org/placement-record/\"> Records </a>",
+        "For placement Cell visit <a target=\"_blank\" href=\"https://www.glbitm.org/training-and-placements/\"> Placement Cell </a>",
         "Our top recruiters are TCS, Wipro, Infosys, Capgemini, Accenture, IBM, HCL, Tech Mahindra, NIIT, Cognizant, Amazon, Samsung, L&T, Ericsson, etc."
       ],
       "context_set": ""
@@ -587,7 +593,7 @@
         "fourth year scholarship"
       ],
       "responses": [
-        "Many government scholarships are supported by our university. For details and updates visit <a target=\"_blank\" href=\"(SCHOLARSHIP DETAILS LINK)\">here</a>"
+        "Many government scholarships are supported by our university. For details and updates visit <a target=\"_blank\" href=\"http://uponlinescholarship.com/engineering-scholarship.php\">UP State Scholarship</a>"
       ],
       "context_set": ""
     },
@@ -635,7 +641,9 @@
         "3rd year btech faculty detail",
         "4th year btech faculty detail",
         "1st year mba faculty detail",
-        "2nd year mba faculty detail"
+        "2nd year mba faculty detail",
+        "btech faculty",
+        "faculty"
       ],
       "responses": [
         "For 1st year BTech, here are some staff and faculty members:\n1. Dr. John Smith - john.smith01@gmail.com\n2. Prof. Emily Johnson - emily.johnson02@gmail.com\n\nFaculty: Our esteemed faculty members are dedicated to providing quality education and guidance to 1st-year BTech students.",

@@ -1,6 +1,26 @@
 {
   "intents": [
     {
+      "tag": "academics",
+      "patterns": [
+        "courses offered",
+        "academic programs",
+        "course descriptions",
+        "prerequisites",
+        "course schedules",
+        "academic calendars",
+        "faculty members in courses",
+        "faculty for specific courses",
+        "departments",
+        "student policy"
+      ],
+      "responses": [
+        "Our college offers a wide range of academic programs. You can explore the courses offered and their descriptions [here](https://www.glbitm.org/cpage.aspx?mpgid=27&pgidtrail=179). For information about different departments, visit [this link](https://www.glbitm.org/academics%20-departments/). If you're interested in knowing about our faculty members, please check [this page](https://www.glbitm.org/faculty/). Additionally, you can refer to our academic calendar [here](https://www.glbitm.org/Uploads/image/2023/AcademicCalendar-Even2023-24.pdf). For student-centric policies, please visit [this link](https://www.glbitm.org/student-centric-policy/).",
+        "To learn more about our academic offerings, including course descriptions, prerequisites, schedules, and faculty members, please visit our college website. You can find the courses offered [here](https://www.glbitm.org/cpage.aspx?mpgid=27&pgidtrail=179), explore our various departments [here](https://www.glbitm.org/academics%20-departments/), check out our faculty members [here](https://www.glbitm.org/faculty/), view the academic calendar [here](https://www.glbitm.org/Uploads/image/2023/AcademicCalendar-Even2023-24.pdf), and review our student-centric policies [here](https://www.glbitm.org/student-centric-policy/)."
+      ],
+      "context_set": ""
+    },
+    {
       "tag": "admission",
       "patterns": [
         "what is the process of admission",
@@ -195,6 +215,26 @@
       "responses": [
         "Our faculty members are highly qualified and experienced in their respective fields. You can find more details on the faculty page of our college website.",
         "We have a dedicated team of faculty members who are experts in their fields. You can find more information about them on our college website."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "fees",
+      "patterns": [
+        "tuition fees",
+        "fees",
+        "fee details",
+        "fee structure",
+        "payment options",
+        "how to pay fees",
+        "fee payment",
+        "cost of attendance"
+      ],
+      "responses": [
+        "The fees of BTech is 1,50,000 per year and for MBA is 1,00,000 per year. For more details visit <a target=\"_blank\" href=\"https://www.glbitm.org/fee-structure\">here</a>",
+        "The tuition fees and payment options vary depending on the program you're enrolled in. Please refer to our college website for detailed fee information and payment procedures.",
+        "Our college offers various payment options for tuition fees. You can find detailed information about the fee structure and payment options on our college website. Here's the link to the payment procedure: [Payment Procedure](https://www.glbitm.org/payment-procedure/)",
+        "The tuition fees and payment options vary depending on the program you're enrolled in. Please refer to our college website for detailed fee information and payment procedures. You can also visit [this link](https://www.glbitm.org/payment-procedure/) for the payment procedure."
       ],
       "context_set": ""
     },

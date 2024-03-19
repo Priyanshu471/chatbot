@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+  <link rel="stylesheet" href="../standalone-frontend/style.css" />
 
   <head>
     <meta charset="UTF-8" />
@@ -8,12 +9,13 @@
   </head>
   <body>
     <div class="container">
+      <div><h1>Hell</h1></div>
       <div class="chatbox">
         <div class="chatbox__support">
           <div class="chatbox__header">
             <div class="chatbox__image--header">
               <img
-                src="https://img.icons8.com/color/48/000000/circled-user-female-skin-type-5--v1.png"
+                src="https://img.icons8.com/color/48/000000/circled-user-male-skin-type-5--v1.png"
                 alt="image"
               />
             </div>
@@ -34,9 +36,7 @@
         </div>
         <div class="chatbox__button">
           <button>
-            <img
-              src="{{ url_for('static', filename='images/chatbox-icon.svg') }}"
-            />
+            <img src="../standalone-frontend/images/chatbox-icon.svg" />
           </button>
         </div>
       </div>

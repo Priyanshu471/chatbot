@@ -237,8 +237,7 @@
       "fees for non-Ac room for boys"
    ],
    "responses": [
-      "For Fee detail please fill <a target=\"_blank\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe95Hc-ThfBQlRsTC4EHPvUAu8ho53dieBjkPZkjlBcEFSy6Q/viewform\">Fee form</a>",
-      "Theres is a different fee structure for different courses. For more details visit student corner <a target=\"_blank\" href=\"https://www.glbitm.org/student-corner/\">Student Corner</a>"
+      "For Fee detail please fill <a target=\"_blank\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe95Hc-ThfBQlRsTC4EHPvUAu8ho53dieBjkPZkjlBcEFSy6Q/viewform\">Fee form</a>"
 
    ],
    "context_set": ""
@@ -316,6 +315,7 @@
    ],
    "responses": [
       "For event detail visit <a target=\"_blank\" href=\"ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE\"> here</a>"
+      
    ],
    "context_set": ""
 },

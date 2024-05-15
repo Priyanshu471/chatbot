@@ -232,6 +232,7 @@
       "patterns": [
         "tuition fees",
         "fees",
+        "what is the fees",
         "fee details",
         "fee structure",
         "payment options",
@@ -240,10 +241,7 @@
         "cost of attendance"
       ],
       "responses": [
-        "The fees of BTech is 1,50,000 per year and for MBA is 1,00,000 per year. For more details visit <a target=\"_blank\" href=\"https://www.glbitm.org/fee-structure\">here</a>.",
-        "The tuition fees and payment options vary depending on the program you're enrolled in. Please refer to our college website for detailed fee information and payment procedures.",
-        "Our college offers various payment options for tuition fees. You can find detailed information about the fee structure and payment options on our college website. Here's the link to the payment procedure: <a target=\"_blank\" href=\"https://www.glbitm.org/payment-procedure/\">Payment Procedure</a>.",
-        "The tuition fees and payment options vary depending on the program you're enrolled in. Please refer to our college website for detailed fee information and payment procedures. You can also visit <a target=\"_blank\" href=\"https://www.glbitm.org/payment-procedure/\">this link</a> for the payment procedure."
+        "The fees of BTech is 1,50,000 per year and for MBA is 1,00,000 per year. For more details visit <a target=\"_blank\" href=\"https://www.glbitm.org/fee-structure\">here</a>."      
       ],
       "context_set": ""
     },
